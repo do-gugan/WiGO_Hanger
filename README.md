@@ -35,3 +35,10 @@ Hanging　from neck results the mic-unit always points up. A length-adjustable s
 This product has not caused any particular problems in the range of my current use. However, I have not test the long-term strength enouph. Also, the durability (elasticity, breakability) varies depending on the material used for the print. Please use it at your own risk.
 
 # DOWNLOAD
+自前の3Dプリンターで出力できる方、またはデータを改変して使いたい方向け。
+[Releaseページ](https://github.com/do-gugan/WiGO_Hanger/releases)などからwiGo_Hanger.stlを取得してください。
+
+
+# For people does not have 3D printer like me.
+3Dプリントサービスを利用できます。例えば上記の写真のものは[DMM.makeの3Dプリントサービス](https://make.dmm.com/print/)を用いて出力しました。
+こちらから簡単に注文できるよう出品手配中です。
