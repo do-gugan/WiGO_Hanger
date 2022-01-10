@@ -38,7 +38,10 @@ This product has not caused any particular problems in the range of my current u
 自前の3Dプリンターで出力できる方、またはデータを改変して使いたい方向け。
 [Releaseページ](https://github.com/do-gugan/WiGO_Hanger/releases)などからwiGo_Hanger.stlを取得してください。
 
+Please get　the latest WiGo_Hanger.stl　from [Release](https://github.com/do-gugan/WiGO_Hanger/releases) page.
 
-# For people does not have 3D printer like me.
+# For people does not have 3D printer like me
 3Dプリントサービスを利用できます。例えば上記の写真のものは[DMM.makeの3Dプリントサービス](https://make.dmm.com/print/)を用いて出力しました。
-こちらから簡単に注文できるよう出品手配中です。
+[こちら](https://make.dmm.com/item/1388403/)から素材と色を選んで注文できます。
+
+Please find your local 3D print service. For example, DMM.make would be nice in Japan.
